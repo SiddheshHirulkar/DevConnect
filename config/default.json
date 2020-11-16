@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://siddhu3096:siddhu3096@devmedia.rxumt.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "MySecrettoken",
+    "githubClientId": "Iv1.a81b76c178a6d3ae",
+    "githubSecret": "fb8fe57f57627afd82257cadb8d03560452e254e"
+}
